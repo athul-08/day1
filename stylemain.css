@@ -1,0 +1,13 @@
+    .first{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    
+    color: blue;
+}
+a{
+    color:white;
+}
+#second{
+    color:white;
+}
